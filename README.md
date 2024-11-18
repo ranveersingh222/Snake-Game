@@ -10,7 +10,7 @@ Features:
 
 How to Play:
 
-	•	Use the arrow keys (or specified controls) to navigate the snake.
+	•	Use the 'w','a','s','d' keys (or specified controls) to navigate the snake.
 	•	Avoid running into the edges of the screen or the snake’s own body.
 	•	Each piece of food consumed increases your score and the snake’s length.
 
