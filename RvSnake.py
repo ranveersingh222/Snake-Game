@@ -134,7 +134,7 @@ while True:
         #Add a segment
         new_segment = turtle.Turtle()
         new_segment.speed(0)
-        new_segment.shape("triangle")
+        new_segment.shape("square")
         new_segment.color("#39FF14")
         new_segment.penup()
         segments.append(new_segment)
