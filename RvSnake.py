@@ -20,7 +20,7 @@ window.tracer(0) #turns off the screen updates
 #snake Head
 head = turtle.Turtle()
 head.speed(0)
-head.shape("triangle")
+head.shape("square")
 head.color("#00FFFF")
 head.penup()
 head.goto(0,0)
