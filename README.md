@@ -1,4 +1,7 @@
 # Snake Game
+<p align="center">
+  <img src="https://media1.tenor.com/m/nSGiQJHgbjkAAAAd/nokia-snake-game.gif" width="600" alt="Elon Musk Mars GIF">
+</p>
 
 The classic snake game, reimagined in Python! This simple yet addictive game lets players control a snake that grows in length as it consumes food on the screen. The goal is to guide the snake to eat as much food as possible without colliding with itself or the screen boundaries.
 
